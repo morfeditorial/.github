@@ -10,12 +10,6 @@ Morf OSS is an open-source organization focused on building modern software for 
 - Publishing open-source tools, libraries, and infrastructure for the PHP ecosystem.
 - Maintaining documentation, examples, and developer resources for our projects.
 
-## Featured Projects
-
-- **machinima-core** — Platform-agnostic Symfony bundle providing the core domain model, business logic, and user interface foundation.
-- **machinima-app** — Host application that assembles the platform from reusable bundles and adapters.
-- **machinima-telegram-adapter** — Telegram integration providing zero-click authentication and Telegram Mini App support.
-
 ## Contact
 
 For questions, collaborations, or project inquiries, contact us at **[inbox@morf.pp.ua](mailto:inbox@morf.pp.ua)** or open a discussion in the relevant GitHub repository.

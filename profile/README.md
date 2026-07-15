@@ -12,4 +12,4 @@ Morf OSS is an open-source organization focused on building modern software for 
 
 ## Contact
 
-For questions, collaborations, or project inquiries, contact us at **[inbox@morf.pp.ua](mailto:inbox@morf.pp.ua)** or open a discussion in the relevant GitHub repository.
+For questions, collaborations, or project inquiries, contact us at [inbox@morf.pp.ua](mailto:inbox@morf.pp.ua) or open a discussion in the relevant GitHub repository.

@@ -1,4 +1,4 @@
-# Morf OSS
+## About Us
 
 Morf OSS is an open-source organization focused on building modern software for content publishing, digital communities, and creators. We develop modular applications, reusable libraries, and developer tools with an emphasis on clean architecture, extensibility, and long-term maintainability.
 
